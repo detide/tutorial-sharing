@@ -8,6 +8,10 @@ Here is some text.
 
 Congratulations, you did it! 
 
+## Step 3
+
+download
+
 ```package
 datalogger
 servo
